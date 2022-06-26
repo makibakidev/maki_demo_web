@@ -62532,7 +62532,7 @@ a8(){return new A.J6(A.b(["Kits","Ingredients","Tools","Recipes"],t.s),A.b([1,2,
 A.J6.prototype={
 F(a,b){var s=this,r=null,q=b.K(t.w).f,p=A.cH(new A.aG(10,10)),o=t.p
 p=A.lg(r,B.au,new A.pb(A.a7(r,A.cN(A.b([A.fY(A.cV(!1,r,!0,A.a7(r,new A.c0(B.f_,r,r,new A.b2(B.mi,A.ay("S\u1ea3n ph\u1ea9m, c\xf4ng th\u1ee9c...",r,r,r,r,A.ax(r,r,B.a_,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),r),r,r,new A.bj(B.k,r,r,p,r,r,B.B),35,new A.Q(15,0,15,0),r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a4q(b),r,r,r),1),new A.b2(B.yo,A.bz("assets/images/tab_order.png",r,r,28,28),r)],o),B.z,B.w,B.r),B.au,r,r,45,r,new A.Q(0,0,0,10),r),B.Fs,r),!1,0,r,B.K1,r)
-o=A.aeR(A.b([s.a_j(),A.aaq(new A.wB(2,10,10,1.9),new A.a4r(s,(q.a.a-20-30)/4),4,new A.Q(10,10,10,0),new A.v6(r),!0),s.le("New"),s.le("Best Sellers"),s.le("Flash Sales"),s.le("Kits"),s.le("Ingredients"),s.le("Recipes")],o),!0,!0,!0)
+o=A.aeR(A.b([s.a_j(),A.aaq(new A.wB(2,10,10,1.9),new A.a4r(s,(q.a.a-20-30)/4),4,new A.Q(10,10,10,0),new A.v6(r),!0),s.le("News"),s.le("Best Sellers"),s.le("Flash Sales"),s.le("Kits"),s.le("Ingredients"),s.le("Recipes")],o),!0,!0,!0)
 return A.jd(new A.pb(p,B.Ft,r),new A.uA(o,r,B.R,!1,r,!0,B.dt,!0,r,8,B.ab,B.er,r,B.Y,r),r)},
 le(a){var s=null,r=t.w,q=(this.c.K(r).f.a.a-30)/2.2,p=t.p,o=A.cN(A.b([A.fY(A.ay(a,s,s,s,s,A.ax(s,s,B.m,s,s,s,s,s,s,s,s,18,s,B.ac,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.ay("View more",s,s,s,s,A.ax(s,s,B.a_,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],p),B.z,B.w,B.r)
 r=this.c.K(r).f
